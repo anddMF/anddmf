@@ -2,6 +2,9 @@
 
 ##### 🚧 Project that I'm currently working on: <a href="https://github.com/anddMF/TRD2022" target="_blank" rel="noopener noreferrer">TRD2022</a>.
 ##### ✏️ Themes that I'm currently studying: Node.js and Terraform with AWS.
+<br>
+
+##### 📫 Contact: <a href="https://www.linkedin.com/in/andrew-moraes-f/" target="_blank">LinkedIn</a>
 <!--
 **anddMF/anddmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
