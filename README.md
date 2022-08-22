@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-##### 🚧 Project that I'm currently working on: <a href="https://github.com/anddMF/TRD2022" target="_blank" rel="noopener noreferrer">TRD2022</a>.
-##### ✏️ Themes that I'm currently studying: Node.js and Terraform with AWS.
+##### 🚧 Projects that I'm currently working on: <a href="https://github.com/anddMF/TRD2022" target="_blank" rel="noopener noreferrer">TRD2022</a> and <a href="https://github.com/anddMF/TRD2022.Consumer" target="_blank" rel="noopener noreferrer">TRD2022.Consumer</a>.
+##### ✏️ Themes that I'm currently studying: Node.js and Kafka.
 <br>
 
 ##### 📫 Contact: <a href="https://www.linkedin.com/in/andrew-moraes-f/" target="_blank">LinkedIn</a>
