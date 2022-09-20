@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### 🚧 Project that I'm currently working on: <a href="https://github.com/anddMF/TRD2022.Consumer" target="_blank" rel="noopener noreferrer">TRD2022.Consumer</a> and <a href="https://github.com/anddMF/TRD2022.Api" target="_blank" rel="noopener noreferrer">TRD2022.Api</a>.
+##### 🚧 Projects that I'm currently working on: <a href="https://github.com/anddMF/TRD2022.Consumer" target="_blank" rel="noopener noreferrer">TRD2022.Consumer</a> and <a href="https://github.com/anddMF/TRD2022.Api" target="_blank" rel="noopener noreferrer">TRD2022.Api</a>.
 ##### ✏️ Themes that I'm currently studying: Node.js and Kafka.
 <br>
 
