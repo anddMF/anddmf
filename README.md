@@ -2,7 +2,7 @@
 
 ##### 🚧 Projects that I'm currently working on: <a href="https://github.com/anddMF/TRD2022.Hangfire" target="_blank" rel="noopener noreferrer">TRD2022.Hangfire</a> and <a href="https://github.com/anddMF/TRD2022.Api" target="_blank" rel="noopener noreferrer">TRD2022.Api</a>.
 ##### ✏️ Themes that I'm currently studying: Node.js and Kafka.
-##### ⚡ Tech stack that I use the most (for studying and at work): Angular, .NET, SQL Server, Node.js and Jenkins.
+##### ⚡ Tech stack that I use the most (for studying and at work): .NET, Angular, SQL Server, Node.js and Jenkins.
 <br>
 
 ##### 📫 Contact: <a href="https://www.linkedin.com/in/andrew-moraes-f/" target="_blank">LinkedIn</a>
