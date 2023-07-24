@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### 🚧 Projects that I'm currently working on: <a href="https://github.com/anddMF/TRD2022.Hangfire" target="_blank" rel="noopener noreferrer">TRD2022.Hangfire</a> and <a href="https://github.com/anddMF/TRD2022.Api" target="_blank" rel="noopener noreferrer">TRD2022.Api</a>.
+##### 🚧 Projects that I'm currently working on: <a href="https://github.com/anddMF/TRD2022.Hangfire" target="_blank" rel="noopener noreferrer">TRD2022.Hangfire</a> and <a href="https://github.com/anddMF/GRD2023" target="_blank" rel="noopener noreferrer">GRD2023</a>.
 ##### ✏️ Themes that I'm currently studying: Python and french.
 ##### ⚡ Tech stack that I use the most (for studying and at work): .NET, Angular, SQL Server, Node.js and Jenkins.
 <br>
