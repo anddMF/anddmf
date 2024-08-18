@@ -5,7 +5,7 @@
 ##### ⚡ Tech stack that I use the most (for studying and at work): .NET, Angular, SQL Server, Node.js and Jenkins.
 <br>
 
-##### 📫 Contact: <a href="https://www.linkedin.com/in/andrew-moraes-f/" target="_blank">LinkedIn</a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-moraes-f/)
 <!--
 **anddMF/anddmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
